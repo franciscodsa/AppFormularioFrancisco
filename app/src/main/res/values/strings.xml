@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PrimeraAppFranciscoDaSilva</string>
+    <string name="pulsa_aqui">Pulsa aqui</string>
+    <string name="hola">Hola</string>
+    <string name="escribe_algo">Escribe algo</string>
+    <string name="nada_escrito">No has escrito nada</string>
+</resources>
